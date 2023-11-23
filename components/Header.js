@@ -107,6 +107,7 @@ export default function Header ({ navBarTitle, fullWidth }) {
               src={favicon}
               width={192}
               height={24}
+              layout="fill"
               alt={BLOG.title}
               onError={() => setFavicon(true)}
             />
