@@ -1,6 +1,6 @@
 const BLOG = {
   title: '',
-  author: 'Craig Hart',
+  author: 'Angou.xyz',
   email: 'angou@riseup.net',
   link: 'https://angou.xyz',
   description: 'Rise up!',
