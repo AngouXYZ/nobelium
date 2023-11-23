@@ -43,7 +43,7 @@ export default function Post (props) {
                 alt={BLOG.author}
                 width={24}
                 height={24}
-                src={`https://twitter.com/angouXYZ/photo`}
+                src={`/favicon.png`}
                 className="rounded-full"
               />
               <p className="ml-2 md:block">{BLOG.author}</p>
