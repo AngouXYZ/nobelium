@@ -43,7 +43,7 @@ export default function Post (props) {
                 alt={BLOG.author}
                 width={24}
                 height={24}
-                src={`https://pbs.twimg.com/profile_images/1662080331787427846/oBU1c9W8_400x400.jpg`}
+                src={`/favicon.png`}
                 className="rounded-full"
               />
               <p className="ml-2 md:block">{BLOG.author}</p>
