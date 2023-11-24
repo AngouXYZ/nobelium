@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'Angou',
+  title: '',
   author: '@AngouXYZ',
   email: 'angou@riseup.net',
   link: 'https://angou.xyz',
