@@ -15,7 +15,7 @@ const Footer = ({ fullWidth }) => {
       <div className="my-4 text-sm leading-6">
         <div className="flex align-baseline justify-between flex-wrap">
           <p>
-            © Angou.xyz 2023 ⚑ Rise up!
+            © Angou.xyz 2023  ✉ angou@riseup.net  ⚑ Rise up!  
           </p>
         </div>
       </div>
