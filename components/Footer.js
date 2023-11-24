@@ -1,4 +1,5 @@
 import { useConfig } from '@/lib/config'
+
 const Footer = ({ fullWidth }) => {
   const BLOG = useConfig()
 
@@ -13,7 +14,7 @@ const Footer = ({ fullWidth }) => {
     >
       <hr className="border-gray-200 dark:border-gray-600" />
       <div className="my-4 text-sm leading-6">
-        <div className="flex align-baseline justify-between flex-wrap">
+        <div className="flex align-baseline justify-center flex-wrap"> {/* 修改这里 */}
           <p>
             © Angou.xyz 2023&nbsp;&nbsp;&nbsp;✉ angou@riseup.net&nbsp;&nbsp;&nbsp;⚑ Rise up!  
           </p>
