@@ -11,8 +11,7 @@ const Container = ({ children, layout, fullWidth, ...customMeta }) => {
 
   const url = BLOG.path.length ? `${BLOG.link}/${BLOG.path}` : BLOG.link
   const meta = {
-    //title: BLOG.title,
-    title: "暗号",
+    title: "BLOG.title",
     type: 'website',
     ...customMeta
   }
