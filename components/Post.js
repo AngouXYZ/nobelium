@@ -44,7 +44,8 @@ export default function Post (props) {
                 width={24}
                 height={24}
                 src={`/favicon.png`}
-                className="rounded-full"
+                //className="rounded-full"
+                className="rounded-none"
               />
               <p className="ml-2 md:block">{BLOG.author}</p>
             </a>
